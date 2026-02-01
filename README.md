@@ -37,7 +37,7 @@ portfolio-website/
 │── css/
 │ └── style.css
 │── js/
-│ └── script.js
+│ └── main.js
 │── img/
 │ └── images
 │── fonts/
