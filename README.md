@@ -3,7 +3,7 @@
 
 A **personal portfolio website** built using **HTML, CSS, and JavaScript** to showcase my skills, projects, and contact details. This site is fully responsive and optimized for a great user experience.
 
-⭐ Live Demo: [Add your Vercel link here](https://your-portfolio.vercel.app)
+⭐ Live Demo: https://sandeeprportfolio.vercel.app/
 
 
 
