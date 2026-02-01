@@ -31,7 +31,7 @@ No frameworks or build tools — just pure web fundamentals.
 ---
 
 ## 📁 Project Structure
-'''
+```
 portfolio-website/
 │── index.html
 │── css/
@@ -41,7 +41,7 @@ portfolio-website/
 │── img/
 │ └── images
 │── fonts/
-'''
+```
 
 ## 📌 Run Locally
 
